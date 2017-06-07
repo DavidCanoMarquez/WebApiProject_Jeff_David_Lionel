@@ -1,4 +1,4 @@
-package ch.hes.FoodLLR;
+package ch.hes.Food;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootConfiguration
-public class FoodLlrApplicationTests {
+public class FoodTests {
 
 	@Test
 	public void contextLoads() {
