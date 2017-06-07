@@ -1,4 +1,5 @@
-package ch.hes.FoodLLR;
+package ch.hes.Food;
+
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
